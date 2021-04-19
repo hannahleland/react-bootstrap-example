@@ -2,7 +2,7 @@
 
 Name | Desc | React.js | JavaScript | Bootstrap 4
 -----|------|-----|-----|-----
-Official Docs | Official docs and tutorials | [React](https://reactjs.org//getting-started.html) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | - [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) </br> - [React-Bootstrap](https://react-bootstrap.github.io/)
+Official Docs | Official docs and tutorials | [React](https://reactjs.org/docs/getting-started.html) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) | - [Bootstrap](https://getbootstrap.com/docs/4.6/getting-started/introduction/) </br> - [React-Bootstrap](https://react-bootstrap.github.io/)
 DevDocs | Offical docs in a minimal UI | [React](https://devdocs.io/react/) | [JavaScript](https://devdocs.io/javascript/) | [Bootstrap](https://devdocs.io/bootstrap~4/)
 W3 Schools | Quick reference | [React](https://www.w3schools.com/react/) | [JavaScript](https://www.w3schools.com/js/) | [Bootstrap](https://www.w3schools.com/bootstrap4/)
 Tutorials Point | Quick reference | [React](https://www.tutorialspoint.com/reactjs/reactjs_overview.htm) | [JavaScript](https://www.tutorialspoint.com/javascript/index.htm) | [Bootstrap](https://www.tutorialspoint.com/bootstrap4/index.htm)
